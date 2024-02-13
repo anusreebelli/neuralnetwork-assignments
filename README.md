@@ -16,7 +16,7 @@ Then replace the max in each row by 0 (axis=1)
 Code File - ICP_3_Spring24.ipynb  Document- ICP_3_Spring24.DOCX
 
 
-Assignment-4
+Spring 2024: CS5720: Neural Network Deep Learning: In Class Programming Assignment-4
 1. Data Manipulation
 a. Read the provided CSV file ‘data.csv’.
 b. https://drive.google.com/drive/folders/1h8C3mLsso-R-sIOLsvoYwPLzy2fJ4IOF?usp=sharing
@@ -39,5 +39,12 @@ c) Train and predict the model.
 d) Calculate the mean_squared error
 e) Visualize both train and test data using scatter plot.
    CODE:nndl_assignment4_spring.ipynb
+
+   Spring 2024: CS5720: Neural Network Deep Learning: In Class Programming Assignment-5
+
+1.Implementing Naive Bayes method using scikit-learn library
+2.Implementing Linear SVM method using scikit-learn library
+Code File - NNDL_Assignment5(1).ipynb
+Document - NNDL_ICP5_700758644
 
 
